@@ -1,0 +1,24 @@
+[
+    {
+        "resource_id": "eng_web",
+        "display_name": "World English Bible",
+        "abbreviation": "WEB",
+        "language": "English",
+        "resource_type": "Bible",
+        "version": "1.0",
+        "description": "Public Domain English Bible.",
+        "download_size": "5 MB",
+        "download_url": "packages/eng_web.obtpkg"
+    },
+    {
+        "resource_id": "eng_kjv",
+        "display_name": "King James Version",
+        "abbreviation": "KJV",
+        "language": "English",
+        "resource_type": "Bible",
+        "version": "1.0",
+        "description": "Public Domain King James Version.",
+        "download_size": "6 MB",
+        "download_url": "packages/eng_kjv.obtpkg"
+    }
+]
