@@ -9,5 +9,16 @@
         "description": "Public Domain English Bible.",
         "download_size": "5 MB",
         "download_url": "packages/eng_web.obtpkg"
+    },
+    {
+        "resource_id": "strongs_greek",
+        "display_name": "Strong's Greek Dictionary",
+        "abbreviation": "STRONGS-GR",
+        "language": "Greek",
+        "resource_type": "Dictionary",
+        "version": "1.0",
+        "description": "Strong's Greek Dictionary in its native XML format.",
+        "download_size": "430 KB",
+        "download_url": "packages/strongs_obt_package.obtpkg"
     }
 ]
