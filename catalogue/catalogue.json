@@ -20,5 +20,16 @@
         "description": "Strong's Greek Dictionary in its native XML format.",
         "download_size": "430 KB",
         "download_url": "packages/strongs_obt_package.obtpkg"
+    },
+    {
+        "resource_id": "cata_acts",
+        "display_name": "CATA Acts",
+        "abbreviation": "CATA-ACTS",
+        "language": "English",
+        "resource_type": "CATA",
+        "version": "1.0.0",
+        "description": "Context-aware and context-driven translator knowledge package for the book of Acts.",
+        "download_size": "TBD",
+        "download_url": "packages/ACTS-CATA.obtpkg"
     }
 ]
