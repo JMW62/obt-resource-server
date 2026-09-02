@@ -31,5 +31,16 @@
         "description": "Context-aware and context-driven translator knowledge package for the book of Acts.",
         "download_size": "7.11 KB",
         "download_url": "packages/ACTS-CATA.obtpkg"
+    },
+    {
+    "resource_id": "cata_acts_bcci_pilot",
+    "display_name": "Acts 1 BCCI-Driven CATA Pilot",
+    "abbreviation": "CATA-ACTS1-BCCI",
+    "language": "English",
+    "resource_type": "CATA",
+    "version": "0.2.0",
+    "description": "Experimental BCCI-driven CATA resource demonstrating Bible Contextual Contents Index to Context Contract to context-driven knowledge resolution for Acts chapter 1.",
+    "download_size": "19.34 KB",
+    "download_url": "packages/OBT_CATA_BCCI_Acts1_Prototype_v0_2.obtpkg"
     }
 ]
